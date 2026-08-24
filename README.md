@@ -34,7 +34,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | 🛰️ **Orbital Scene Preprocessor (OSP)** | On-board satellite edge-AI pipeline for real-time scene processing & object detection | `YOLOv8n INT8 ONNX` `FAISS` `Gemini RAG` |
-| 🧩 **Centific Premier Hackathon 2.0** | Agentic, event-driven workflow system with offline-first sync | `LangGraph` `Event Sourcing` `CQRS` `CRDT` |
+| 🕸️ **DisasterMesh** | Self-healing wireless sensor mesh with Dijkstra routing & real-time priority alerts for disaster scenarios | `Flask` `Socket.IO` `D3.js` `Dijkstra Routing` |
 | 📦 **Nexathon 2026 — Supply Chain Risk Monitor** | Real-time supply chain risk detection dashboard (owned the backend) | `FastAPI` `SSE` `scikit-learn` `Algorand` `React/TS` |
 
 > 🔗 Add your repo links here as `[Repo](https://github.com/uplsiddharth-byte/repo-name)` once each project is public.
