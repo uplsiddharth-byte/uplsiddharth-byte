@@ -71,13 +71,13 @@
 ### 📊 GitHub Analytics
 
 <p align="left">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uplsiddharth-byte&theme=algolia&column=7&margin-w=15&margin-h=15" alt="uplsiddharth-byte trophies" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=uplsiddharth-byte&theme=algolia&column=7&margin-w=15&margin-h=15" alt="uplsiddharth-byte trophies" /></a>
 </p>
 
 <!--
-Note: this trophy card runs on a shared public demo (like the stats card used to). If it ever
-shows blank again, it's almost certainly rate-limiting on that shared instance, not your repo.
-Give it a minute and refresh, or self-host it via the official docs:
+Note: using the "github-trophies" community fork (more actively maintained mirror of
+github-profile-trophy) since the original vercel.app instance has been getting rate-limited.
+If this ever goes blank too, the most reliable long-term fix is self-hosting via:
 https://github.com/ryo-ma/github-profile-trophy#how-to-deploy-on-vercel
 -->
 
@@ -88,7 +88,7 @@ https://github.com/ryo-ma/github-profile-trophy#how-to-deploy-on-vercel
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=uplsiddharth-byte&theme=tokyonight" alt="uplsiddharth-byte streak stats" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=uplsiddharth-byte&theme=tokyonight" alt="uplsiddharth-byte streak stats" />
 </p>
 
 <p align="center">
