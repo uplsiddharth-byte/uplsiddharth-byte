@@ -37,6 +37,8 @@
 | 🕸️ **DisasterMesh** | Self-healing wireless sensor mesh with Dijkstra routing & real-time priority alerts for disaster scenarios | `Flask` `Socket.IO` `D3.js` `Dijkstra Routing` |
 | 📦 **Nexathon 2026 — Supply Chain Risk Monitor** | Real-time supply chain risk detection dashboard (owned the backend) | `FastAPI` `SSE` `scikit-learn` `Algorand` `React/TS` |
 
+> 🔗 Add your repo links here as `[Repo](https://github.com/uplsiddharth-byte/repo-name)` once each project is public.
+
 ---
 
 ### 🛠️ Languages & Tools
@@ -72,13 +74,21 @@
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=uplsiddharth-byte&theme=algolia&column=7&margin-w=15&margin-h=15" alt="uplsiddharth-byte trophies" /></a>
 </p>
 
+<!--
+Note: this trophy card runs on a shared public demo (like the stats card used to). If it ever
+shows blank again, it's almost certainly rate-limiting on that shared instance, not your repo.
+Give it a minute and refresh, or self-host it via the official docs:
+https://github.com/ryo-ma/github-profile-trophy#how-to-deploy-on-vercel
+-->
+
+
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=uplsiddharth-byte&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="uplsiddharth-byte GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uplsiddharth-byte&layout=compact&theme=tokyonight" alt="uplsiddharth-byte top languages" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api?username=uplsiddharth-byte&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="uplsiddharth-byte GitHub stats" />
+  <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=uplsiddharth-byte&layout=compact&theme=tokyonight" alt="uplsiddharth-byte top languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uplsiddharth-byte&theme=tokyonight" alt="uplsiddharth-byte streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=uplsiddharth-byte&theme=tokyonight" alt="uplsiddharth-byte streak stats" />
 </p>
 
 <p align="center">
