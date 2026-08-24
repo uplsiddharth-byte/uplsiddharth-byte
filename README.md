@@ -37,8 +37,6 @@
 | 🕸️ **DisasterMesh** | Self-healing wireless sensor mesh with Dijkstra routing & real-time priority alerts for disaster scenarios | `Flask` `Socket.IO` `D3.js` `Dijkstra Routing` |
 | 📦 **Nexathon 2026 — Supply Chain Risk Monitor** | Real-time supply chain risk detection dashboard (owned the backend) | `FastAPI` `SSE` `scikit-learn` `Algorand` `React/TS` |
 
-> 🔗 Add your repo links here as `[Repo](https://github.com/uplsiddharth-byte/repo-name)` once each project is public.
-
 ---
 
 ### 🛠️ Languages & Tools
