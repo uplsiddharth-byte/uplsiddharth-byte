@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uplsiddharth-byte&label=Profile%20views&color=0e75b6&style=flat" alt="uplsiddharth-byte profile views" />
-  <a href="https://linkedin.com/in/siddharth-upl" target="_blank">
+  <a href="https://www.linkedin.com/in/uppala-siddharth-478346323" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:uplsiddharth@gmail.com">
@@ -36,8 +36,6 @@
 | 🛰️ **Orbital Scene Preprocessor (OSP)** | On-board satellite edge-AI pipeline for real-time scene processing & object detection | `YOLOv8n INT8 ONNX` `FAISS` `Gemini RAG` |
 | 🕸️ **DisasterMesh** | Self-healing wireless sensor mesh with Dijkstra routing & real-time priority alerts for disaster scenarios | `Flask` `Socket.IO` `D3.js` `Dijkstra Routing` |
 | 📦 **Nexathon 2026 — Supply Chain Risk Monitor** | Real-time supply chain risk detection dashboard (owned the backend) | `FastAPI` `SSE` `scikit-learn` `Algorand` `React/TS` |
-
-> 🔗 Add your repo links here as `[Repo](https://github.com/uplsiddharth-byte/repo-name)` once each project is public.
 
 ---
 
