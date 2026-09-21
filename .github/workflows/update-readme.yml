@@ -33,5 +33,18 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --staged --quiet || git commit -m "chore: auto-update current project"
-          git push
+          if git diff --staged --quiet; then
+            echo "No README changes to commit."
+            exit 0
+          fi
+          git commit -m "chore: auto-update current project"
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push; then
+              exit 0
+            fi
+            echo "Push failed on attempt ${attempt}, retrying..."
+            sleep 2
+          done
+          echo "Failed to push after retries."
+          exit 1
