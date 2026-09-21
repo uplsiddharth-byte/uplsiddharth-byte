@@ -22,7 +22,9 @@
 
 Computer Science undergraduate at Mahindra University, Hyderabad, graduating in 2027. I work across AI/ML and full-stack development, and currently chair the IEEE Computer Society Student Chapter at my university's IEEE Student Branch.
 
-Currently building **OSP (Orbital Scene Preprocessor)**, a satellite edge-AI pipeline for real-time scene processing. I'm interested in agentic AI systems, computer vision, and taking products from prototype to deployment.
+<!--CURRENT_PROJECT:START-->
+🚧 Currently working on: loading...
+<!--CURRENT_PROJECT:END-->
 
 Reach me at **uplsiddharth@gmail.com**.
 
