@@ -23,7 +23,9 @@
 Computer Science undergraduate at Mahindra University, Hyderabad, graduating in 2027. I work across AI/ML and full-stack development, and currently chair the IEEE Computer Society Student Chapter at my university's IEEE Student Branch.
 
 <!--CURRENT_PROJECT:START-->
-🚧 Currently working on: loading...
+🚧 **Currently working on:** [Human-Feedback-Driven-AI-Support-System](https://github.com/uplsiddharth-byte/Human-Feedback-Driven-AI-Support-System)  
+No description set yet.  
+Stack: Python · last pushed 2026-09-21
 <!--CURRENT_PROJECT:END-->
 
 Reach me at **uplsiddharth@gmail.com**.
