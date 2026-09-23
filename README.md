@@ -25,7 +25,7 @@ Computer Science undergraduate at Mahindra University, Hyderabad, graduating in 
 <!--CURRENT_PROJECT:START-->
 🚧 **Currently working on:** [Human-Feedback-Driven-AI-Support-System](https://github.com/uplsiddharth-byte/Human-Feedback-Driven-AI-Support-System)  
 Human feedback-driven AI support system for university services (LMS/campus queries), fine-tuned via QLoRA + preference pairs.  
-Stack: Python · last pushed 2026-09-21
+Stack: Python · last pushed 2026-09-23
 <!--CURRENT_PROJECT:END-->
 
 Reach me at **uplsiddharth@gmail.com**.
