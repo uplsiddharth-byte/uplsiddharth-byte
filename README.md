@@ -23,7 +23,9 @@
 Computer Science undergraduate at Mahindra University, Hyderabad, graduating in 2027. I work across AI/ML and full-stack development, and currently chair the IEEE Computer Society Student Chapter at my university's IEEE Student Branch.
 
 <!--CURRENT_PROJECT:START-->
-🚧 No push activity in the last 10 days.
+🚧 **Currently working on:** [orbital-preprocessor](https://github.com/uplsiddharth-byte/orbital-preprocessor)  
+Orbital Scene Preprocessor — edge AI multispectral detection + RAG-grounded LLM reasoning for MOI-1A satellite  
+Stack: Python · Shell · Dockerfile · last pushed 2026-11-24
 <!--CURRENT_PROJECT:END-->
 
 Reach me at **uplsiddharth@gmail.com**.
